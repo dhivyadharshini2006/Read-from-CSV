@@ -27,6 +27,8 @@ increase the maximum number of rows to display the entire dataframe.
 
 ## PROGRAM:
 ```
+### NAME:MEIYARASI.V
+### REGISTER NUMBER:21005984
 import pandas as pd
 df=pd.read_csv("nba.csv")
 print(df.head(10))
