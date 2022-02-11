@@ -36,6 +36,6 @@ print("Rows",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![Output](.//Z1.PNG)
+![Output](.//e1.PNG)
 
 ## RESULT:
