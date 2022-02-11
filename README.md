@@ -36,7 +36,7 @@ print("Rows",len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![Output](.//e1.PNG)
+![Output](.//e1.png)
 
 ## RESULT:
 thus the program is written to read the csv file
